@@ -8,10 +8,9 @@
 
 ## 🛠 사용기술
 
--   html, scss(css), javascript, jQuery
+-   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fla&logoColor=black"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logoColor=white"/>
 
--   library
-
+-   라이브러리
     -   swiper.js
     -   slick
     -   aos
@@ -38,7 +37,7 @@
 ![ezgif com-video-to-gif](https://github.com/z1xun/mimesis-portfolio/assets/136055372/85489be4-d954-494f-aa70-01c17d61e28c)
 
 -   `tablet 1024px` 기준으로 이상일 경우 상단바, 이하일 경우 햄버거 메뉴로 변경
--   `mobile 428px` 이하 일 경우 헤더 고정
+-   `mobile 428px` 이하 일 경우 스크롤 시, 헤더 고정
 
 ## 프로젝트 목표
 
