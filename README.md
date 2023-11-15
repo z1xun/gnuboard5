@@ -6,16 +6,6 @@
 >
 > 제작 기간 : 2023.09 ~ 10
 
-## 🛠 사용기술
-
--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fla&logoColor=black"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logoColor=white"/>
-
--   라이브러리
-    -   swiper.js
-    -   slick
-    -   aos
-    -   flatpickr
-
 ## **🔗 링크**
 
 > link : http://jsjh59340.cafe24.com/gnuboard5/
@@ -30,7 +20,6 @@
 -   <a href="http://jsjh59340.cafe24.com/gnuboard5/info.php" target="_blank">관람안내</a>
 
 ## 📂 반응형 웹
-
 -   4가지의 breakpoint 구성
 -   (1024px, 834px, 744px, 428px)
 
